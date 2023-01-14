@@ -1,0 +1,6 @@
+module Pods_abhi_rn {
+  umbrella header "Pods-abhi_rn-umbrella.h"
+
+  export *
+  module * { export * }
+}
